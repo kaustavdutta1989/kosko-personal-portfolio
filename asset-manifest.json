@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kosko-personal-portfolio/static/css/main.26de289d.css",
-    "main.js": "/kosko-personal-portfolio/static/js/main.3411b176.js",
+    "main.css": "/kosko-personal-portfolio/static/css/main.6d491370.css",
+    "main.js": "/kosko-personal-portfolio/static/js/main.d31d939e.js",
     "index.html": "/kosko-personal-portfolio/index.html",
-    "main.26de289d.css.map": "/kosko-personal-portfolio/static/css/main.26de289d.css.map",
-    "main.3411b176.js.map": "/kosko-personal-portfolio/static/js/main.3411b176.js.map"
+    "main.6d491370.css.map": "/kosko-personal-portfolio/static/css/main.6d491370.css.map",
+    "main.d31d939e.js.map": "/kosko-personal-portfolio/static/js/main.d31d939e.js.map"
   },
   "entrypoints": [
-    "static/css/main.26de289d.css",
-    "static/js/main.3411b176.js"
+    "static/css/main.6d491370.css",
+    "static/js/main.d31d939e.js"
   ]
 }
