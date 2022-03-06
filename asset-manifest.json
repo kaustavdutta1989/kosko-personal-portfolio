@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaustav-personal-portfolio/static/css/main.26de289d.css",
+    "main.js": "/kaustav-personal-portfolio/static/js/main.3411b176.js",
+    "index.html": "/kaustav-personal-portfolio/index.html",
+    "main.26de289d.css.map": "/kaustav-personal-portfolio/static/css/main.26de289d.css.map",
+    "main.3411b176.js.map": "/kaustav-personal-portfolio/static/js/main.3411b176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26de289d.css",
+    "static/js/main.3411b176.js"
+  ]
+}
