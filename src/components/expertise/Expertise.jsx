@@ -3,9 +3,9 @@ import './expertise.css';
 
 function Expertise() {
     return (
-        <div>
+        <section id="expertise">
             Expertise
-        </div>
+        </section>
     )
 }
 

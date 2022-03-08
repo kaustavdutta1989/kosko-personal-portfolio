@@ -7,17 +7,19 @@ import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
 import Project from './components/project/Project';
+import Contact from './components/contact/Contact';
 
 const App = () => {
     return (
         <>
             <Header />
             <Nav />
+            <About />
             <Expertise />
             <Experience />
             <Project />
             <Education />
-            <About />
+            <Contact />
             <Footer />
         </>
     )

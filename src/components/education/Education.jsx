@@ -3,9 +3,9 @@ import './education.css';
 
 function Education() {
     return (
-        <div>
+        <section id="education">
             Education
-        </div>
+        </section>
     )
 }
 
